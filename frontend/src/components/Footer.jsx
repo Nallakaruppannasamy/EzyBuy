@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
-            <p className='w-full md:w-2/3 text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit nihil eum debitis repudiandae sed excepturi?</p>
+            <p className='w-full md:w-2/3 text-gray-600'>Modern style, made easy. EzyBuy offers handpicked collections designed for the fashion-forward individual. Dress like you mean it.</p>
         </div>
 
         <div>

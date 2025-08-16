@@ -14,10 +14,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
         <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, reiciendis. Ducimus, consequatur error accusamus laudantium illum ipsa, incidunt quasi totam dolorum iusto facere quos porro quo tempora, nam minima reiciendis.</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos distinctio, velit ipsa recusandae exercitationem at nulla similique facere consequatur commodi modi reiciendis libero debitis sapiente consequuntur in ratione, incidunt cum neque dolor quidem quibusdam vel?</p>
+          <p>At EzyBuy, we believe getting dressed should be the easiest part of your day. In a world of fast-moving trends and endless options, we wanted to create a space where shopping for clothes is simple, inspiring, and enjoyable again. We were tired of the clutter and decided to focus on what truly matters: great style, quality you can trust, and pieces you'll want to wear on repeat.</p>
+          <p>Our collections are thoughtfully curated to balance timeless essentials with modern, on-trend pieces. We focus on versatility and fit, bringing you a handpicked selection of apparel that builds a wardrobe that feels effortlessly cool and uniquely you. From the perfect pair of jeans to a statement top, every item is chosen to help you express your personal style with confidence.</p>
           <b className='text-gray-800'>Our Mission</b>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim nesciunt optio impedit at laborum reiciendis iure tenetur excepturi minus libero facere error inventore recusandae, eos vitae suscipit perferendis qui!</p>
+          <p>Our collections are thoughtfully curated to balance timeless essentials with modern, on-trend pieces. We focus on versatility and fit, bringing you a handpicked selection of apparel that builds a wardrobe that feels effortlessly cool and uniquely you. From the perfect pair of jeans to a statement top, every item is chosen to help you express your personal style with confidence.</p>
         </div>
       </div>
 
